@@ -11,3 +11,5 @@ FCM(Firebase Cloud Messaging)을 이용한 백그라운드 알림 기능 구현
 ```
 FCM 관련 의존성을 주입한다.
 ```
+#### MainActivity에서 기기 토큰값 받아오는 함수 호출
+![image](https://github.com/mr-won/Kotlin_FCM/assets/58906858/edc46d51-b259-4a55-9b0a-24cb27da9ce8)
